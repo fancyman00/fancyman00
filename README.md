@@ -1,7 +1,6 @@
 <h2 align="left">Hi! My name is Alex and I'm a Full-Stack developer, from Russia, Voronezh.<br>VSU, 18, 3 year dev exp.</h2>
 
 ###
-https://1drv.ms/p/s!Alx9JQHWKGFYhHF_XV7w-OzaObAf?e=I750bZ
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=fancyman00&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
