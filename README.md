@@ -1,4 +1,4 @@
-<h2 align="left">Hi! My name is Alex and I'm a Full-Stack developer, from Russia, Voronezh.<br>VSU, 18, 3 year dev exp. Android-Java, React Typescript/Javascript, Python/node.js/C++</h2>
+<h2 align="left">Hi! My name is Alex and I'm a Full-Stack developer, from Russia, Voronezh.<br/>VSU, 18, 3 year dev exp.<br/> Android-Java, React Typescript/Javascript, Python/node.js/C++</h2>
 
 ###
 
