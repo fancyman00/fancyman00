@@ -71,6 +71,28 @@ Contributed to a program of **four small spacecraft launched in July 2025**.
 - Used Kafka, Celery and Redis for event-driven processing under production load
 - Conducted technical interviews for Middle Backend Developer roles
 
+## Open-source portfolio
+
+<div align="center">
+
+<a href="https://github.com/fancyman00/AgriCopilot">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=AgriCopilot&theme=github_dark&hide_border=true&description_lines_count=2" alt="AgriCopilot repository card" />
+</a>
+<a href="https://github.com/fancyman00/FileStorage">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=FileStorage&theme=github_dark&hide_border=true&description_lines_count=2" alt="FileStorage repository card" />
+</a>
+
+<a href="https://github.com/fancyman00/JavaLearningTask">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=JavaLearningTask&theme=github_dark&hide_border=true&description_lines_count=2" alt="JavaLearningTask repository card" />
+</a>
+<a href="https://github.com/fancyman00/FastapiCleanArchSkill">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=FastapiCleanArchSkill&theme=github_dark&hide_border=true&description_lines_count=2" alt="FastapiCleanArchSkill repository card" />
+</a>
+
+[![Explore all public repositories](https://img.shields.io/badge/Explore_all_public_repositories-181717?style=for-the-badge&logo=github)](https://github.com/fancyman00?tab=repositories&type=source)
+
+</div>
+
 ## GitHub, in motion
 
 <div align="center">
