@@ -43,7 +43,9 @@ alexey = {
 
 ## A few things I've shipped
 
-### 📊 Sam-X — Wildberries analytics SaaS
+### 📊 [Sam-X](https://sam-x.ru) — Wildberries analytics SaaS
+
+[![Sam-X website](https://img.shields.io/badge/Visit-sam--x.ru-7C3AED?style=flat-square&logo=googlechrome&logoColor=white)](https://sam-x.ru)
 
 Leading backend development and architecture for a production multi-service platform.
 
@@ -82,8 +84,8 @@ Contributed to a program of **four small spacecraft launched in July 2025**.
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=FileStorage&theme=github_dark&hide_border=true&description_lines_count=2" alt="FileStorage repository card" />
 </a>
 
-<a href="https://github.com/fancyman00/JavaLearningTask">
-  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=JavaLearningTask&theme=github_dark&hide_border=true&description_lines_count=2" alt="JavaLearningTask repository card" />
+<a href="https://github.com/fancyman00/dif-drag-3u-group">
+  <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=dif-drag-3u-group&theme=github_dark&hide_border=true&description_lines_count=2" alt="Differential drag repository card" />
 </a>
 <a href="https://github.com/fancyman00/FastapiCleanArchSkill">
   <img width="48%" src="https://github-readme-stats-eight-theta.vercel.app/api/pin/?username=fancyman00&repo=FastapiCleanArchSkill&theme=github_dark&hide_border=true&description_lines_count=2" alt="FastapiCleanArchSkill repository card" />
