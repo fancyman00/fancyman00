@@ -8,7 +8,7 @@ I build backend systems that survive production — from SaaS analytics and AI a
 to telemetry software used in a real satellite mission.
 
 [![GitHub](https://img.shields.io/badge/GitHub-fancyman00-181717?style=for-the-badge&logo=github)](https://github.com/fancyman00)
-[![Telegram](https://img.shields.io/badge/Telegram-@nofancybitch-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/nofancybitch)
+[![Telegram](https://img.shields.io/badge/Telegram-@nofancybitch-26A5E4?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/kkillahill)
 [![Habr Career](https://img.shields.io/badge/Habr_Career-Profile-65A3BE?style=for-the-badge)](https://career.habr.com/fancyman00)
 [![Email](https://img.shields.io/badge/Email-noalexfancy%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:noalexfancy@gmail.com)
 
