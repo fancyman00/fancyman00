@@ -21,7 +21,7 @@ to telemetry software used in a real satellite mission.
 ---
 
 ```python
-alexey = {
+aleksei = {
     "role": "Middle Python Backend Developer",
     "experience": "5+ years",
     "focus": ["distributed systems", "clean architecture", "high-load backends"],
