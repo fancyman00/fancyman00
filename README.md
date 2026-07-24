@@ -54,13 +54,26 @@ Leading backend development and architecture for a production multi-service plat
 - Created a Redis-backed DAG task engine that reduced report generation from **30s to 3–5s**
 - Introduced full observability and reduced incident detection time from hours to **~15 minutes**
 - Set up GitHub Actions, Docker Compose deployments, SSL termination and production operations
+<p align="center">
+  <img
+    src="https://github.com/user-attachments/assets/823c6bc3-b605-457c-899c-c971c0403cde"
+    alt="Sam-X dashboard"
+    width="49%"
+  />
+  <img
+    src="https://github.com/user-attachments/assets/5b396d23-fc7e-4180-b8ae-45c885dd6f86"
+    alt="Sam-X product analytics"
+    width="49%"
+  />
+</p>
 
 ### 🛰️ Space & embedded software
 
 Contributed to a program of **four small spacecraft launched in July 2025**.
 
-[![Launch confirmed](https://img.shields.io/badge/Launch_confirmed-25_July_2025-0B3D91?style=flat-square&logo=rocket&logoColor=white)](https://www.aerospacecapital.ru/ru/news12.html) **Mission report:** four AstroLine spacecraft were successfully deployed to orbit.
+[![Launch confirmed](https://img.shields.io/badge/Launch_confirmed-25_July_2025-0B3D91?style=flat-square&logo=rocket&logoColor=white)](https://www.aerospacecapital.ru/ru/news12.html)
 
+**Mission report:** four AstroLine spacecraft were successfully deployed to orbit.
 - Developed Python telemetry receivers for Raspberry Pi
 - Ported and verified spacecraft attitude-control algorithms from C++ to Python
 - Built an orbital differential-drag simulation engine for a 3U satellite constellation
